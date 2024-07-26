@@ -24,7 +24,7 @@ Olá! Eu sou o Alexandre Vieira
 
 #### Habilidades: 
 
-<img align="center" alt="logo do HTML" height="30" width="75" src="  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="logo do SQL Server" height="30" width="75" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> 
+<img align="center" alt="logo do Python" height="30" width="75" src="  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="logo do SQL Server" height="30" width="75" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> 
 <img align="center" alt="logo do Power BI" height="30" width="75" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"> 
 <img align="center" alt="logo do Power Automate" height="30" width="75" src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000"> 
 
@@ -41,4 +41,3 @@ Olá! Eu sou o Alexandre Vieira
 
   
 ---
-
