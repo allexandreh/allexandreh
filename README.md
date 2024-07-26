@@ -1,7 +1,9 @@
-<div align="center" style="display: inline_block">
-<div align="center">
+### Olá! Eu sou o Alexandre Vieira
+Formado em:
+- Física (licenciatura) - Unip
+- Engenharia de Produção (bacharel) - Univesp
 
-Olá! Eu sou o Alexandre Vieira
+Trabalho com análise de dados e com otimização e melhoria de processos. Nesse espaço compartilho meu desenvolvimento na área de dados, tanto análise dados, qaunto ciência de dados.
 
 ---
   
@@ -22,7 +24,7 @@ Olá! Eu sou o Alexandre Vieira
 
 <div align="center" style="display: inline_block">
 
-#### Habilidades: 
+#### Ferramentas do meu dia dia: 
 
 <img align="center" alt="logo do Python" height="30" width="75" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img align="center" alt="logo do SQL Server" height="30" width="75" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> 
 <img align="center" alt="logo do Power BI" height="30" width="75" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"> 
