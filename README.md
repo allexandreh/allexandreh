@@ -7,7 +7,9 @@ Trabalho com análise de dados e com otimização e melhoria de processos. Nesse
 
 Repositórios:
 allexandreh - onde são postados meus projetos pessoais;
+
 dnc_repository - onde são postados os exemplos, aplicações e exercícios do curso de ciência de dados que faço na plataforma;
+
 dio-lab-open-source - esse foi uma atividade que realizei na plataforma de cursos da DIO para aprendizado dos comandos envolvendo o github
 
 ---
