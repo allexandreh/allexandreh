@@ -6,6 +6,7 @@ Formado em:
 Trabalho com análise de dados e com otimização e melhoria de processos. Nesse espaço compartilho meu desenvolvimento na área de dados, tanto análise dados, qaunto ciência de dados.
 
 Repositórios:
+
 allexandreh - onde são postados meus projetos pessoais;
 
 dnc_repository - onde são postados os exemplos, aplicações e exercícios do curso de ciência de dados que faço na plataforma;
